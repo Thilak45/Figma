@@ -473,11 +473,11 @@ color: #FFFFFF;
 
 ## OUTPUT:
 
-![output](out1.png)
+![out1](out1.png)
 
-![output](out2.png)
+![out2](out2.png)
 
-![output](out3.png)
+![out3](out3.png)
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
