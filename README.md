@@ -473,14 +473,14 @@ color: #FFFFFF;
 
 ## OUTPUT:
 
-![out1](out1.png)
-![out3 (2)](https://github.com/Thilak45/Figma/assets/138849161/37e456de-f358-46cb-a76d-bbed0d4cf7c0)
+output1:
+
 ![out1 (2)](https://github.com/Thilak45/Figma/assets/138849161/2fd12f22-f5a9-4bf6-a950-7e2e54ad03ed)
+output2:
 
-![out2](out2.png)
 ![out2 (2)](https://github.com/Thilak45/Figma/assets/138849161/d0139d9c-ade8-46ba-99f4-321e44f491e3)
+output3:
 
-![out3](out3.png)
 ![out3 (2)](https://github.com/Thilak45/Figma/assets/138849161/aaf16b7a-730f-4b7c-8c48-fd385dd34570)
 
 ## RESULT:
